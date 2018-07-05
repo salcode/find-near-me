@@ -1,0 +1,1445 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.169801,33.5417647 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Glendale",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"5125 W. Myrtle Avenue",
+    "CITY":"Glendale ",
+    "ZIP":"85301",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7558068,33.4224691 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"A New Leaf, Inc. Dorothy Mitchell Residence",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"3505 E. University Drive",
+    "CITY":"Mesa",
+    "ZIP":"85203",
+    "STATE":"Arizona",
+    "PHONE":"480-969-4024",
+    "OPERATOR":"A New Leaf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.811538,33.4221344 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"A New Leaf, Inc. Alice Peterson Residence",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"901 E. University Drive",
+    "CITY":"Mesa",
+    "ZIP":"85203",
+    "STATE":"Arizona",
+    "PHONE":"480-969-4024",
+    "OPERATOR":"A New Leaf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8404839,33.4349629 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Las Palmas",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"421 W. Brown Road  ",
+    "CITY":"Mesa",
+    "ZIP":"85201",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8155437,33.4108891 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Kokopelli",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"723 E. 2nd Avenue",
+    "CITY":"Mesa",
+    "ZIP":"85204",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0812642,33.4360428 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Unnamed facility operated by Southwest Key Program, Inc. ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"1201 S. 7th Avenue, Suite 120",
+    "CITY":"Phoenix",
+    "ZIP":"85007",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1150306,33.5017004 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Unnamed facility operated by Southwest Key Program, Inc.",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"2613 W. Campbell Avenue",
+    "CITY":"Phoenix",
+    "ZIP":"85017",
+    "STATE":"Arizona",
+    "PHONE":"(602) 841-1038",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0517822,33.4815489 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Lighthouse",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"2932 N. 14th Street",
+    "CITY":"Phoenix",
+    "ZIP":"85014",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9794904,32.2413144 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Estrella del Norte ",
+    "CAPACITY_(BEDS)":300,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1601 N. Oracle Road",
+    "CITY":"Tucson",
+    "ZIP":"85705 -644",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.892207,32.2291054 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"VisionQuest National",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"600 N. Swan Road",
+    "CITY":"Tucson",
+    "ZIP":"85711",
+    "STATE":"Arizona",
+    "PHONE":"(520) 881-3950",
+    "OPERATOR":"VisionQuest National"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3037399,33.5947387 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Hacienda Del Sol",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility ",
+    "ADDRESS_1":"12030 N. 113th Avenue",
+    "CITY":"Youngtown",
+    "ZIP":"85363 -124",
+    "STATE":"Arizona",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9416164,32.8082769 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa San Diego",
+    "CAPACITY_(BEDS)":65,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1160 Broadway",
+    "CITY":"El Cajon",
+    "ZIP":"92021",
+    "STATE":"Calfornia",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0371583,32.7287657 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Lemon Grove",
+    "CAPACITY_(BEDS)":10,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"2205 El Prado Avenue",
+    "CITY":"Lemon Grove",
+    "ZIP":"94145",
+    "STATE":"Calfornia",
+    "PHONE":"(619) 832-2350",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.8232506,32.8623883 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Unnamed facility operated by Southwest Key Program, Inc.",
+    "CAPACITY_(BEDS)":15,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"9780 Dunbar Lane",
+    "CITY":"El Cajon",
+    "ZIP":"92021",
+    "STATE":"California",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0502293,38.271397 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"BCFS Health and Human Services Fairfield",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"2301 Pennsylvania Avenue",
+    "CITY":"Fairfield",
+    "ZIP":"94533",
+    "STATE":"California",
+    "PHONE":"(707) 422-8802",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9110319,33.8745654 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Crittenton Foster Care and Adoption Agency",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"801 E. Chapman Avenue",
+    "CITY":"Fullerton",
+    "ZIP":"92831",
+    "STATE":"California",
+    "PHONE":"(714) 680-9000",
+    "OPERATOR":"Crittenton Services for Children and Families "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7854785,34.1024159 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"David & Margaret Youth and Family Services",
+    "CAPACITY_(BEDS)":59,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1350 3rd Street",
+    "CITY":"La Verne",
+    "ZIP":"91750",
+    "STATE":"California",
+    "PHONE":"(909) 596-5921",
+    "OPERATOR":"David & Margaret Youth and Family Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1495229,34.0331756 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Nuevo Amanecer Latino Children's Services",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Transitional Foster Care",
+    "ADDRESS_1":"5400 Pomona Boulevard",
+    "CITY":"Los Angeles ",
+    "ZIP":"90022",
+    "STATE":"California",
+    "PHONE":"(323) 720-9951",
+    "OPERATOR":"Nuevo Amanecer Latino Children's Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0892924,37.94730759999999 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Pleasant Hill",
+    "CAPACITY_(BEDS)":30,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"808 Grayson Road",
+    "CITY":"Pleasant Hill",
+    "ZIP":"94523",
+    "STATE":"California",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.729743,38.660341 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Yolo County Juvenile Detention Facility",
+    "CAPACITY_(BEDS)":90,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"2880 East Gibson Road",
+    "CITY":"Woodland",
+    "ZIP":"95776",
+    "STATE":"California",
+    "PHONE":"(530) 406-5300",
+    "OPERATOR":"Yolo County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2757354,38.6798131 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"International Christian Adoptions",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Transitional Foster Care",
+    "ADDRESS_1":"6248 Birdcage Street",
+    "CITY":"Citrus Heights",
+    "ZIP":"95610",
+    "STATE":"California ",
+    "PHONE":"951-695-3336",
+    "OPERATOR":"International Christian Adoptions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.08304,41.3544627 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Noank Community Support Services",
+    "CAPACITY_(BEDS)":12,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"306 THAMES ST (have to check with Caroline)",
+    "CITY":"Groton",
+    "ZIP":"6340",
+    "STATE":"Connecticut",
+    "PHONE":"(860) 333-1623",
+    "OPERATOR":"Noank Community Support Services, Inc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.39220019999999,25.4998751 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Homestead Temporary Shelter for Unaccompanied Children",
+    "CAPACITY_(BEDS)":1000,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"960 Bougainville Boulevard",
+    "CITY":"Homestead",
+    "ZIP":"33039",
+    "STATE":"Florida",
+    "PHONE":"",
+    "OPERATOR":"Comprehensive Health Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3468891,25.59552 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Catholic Charities’ Msgr. Bryan Walsh Children’s Village",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"9525 Sterling Drive",
+    "CITY":"Cutler Bay",
+    "ZIP":"33157",
+    "STATE":"Florida",
+    "PHONE":"305-380-0141",
+    "OPERATOR":"Catholic Charities of the Archdiocese of Miami, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2796092,25.9559243 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"His House Children's Home",
+    "CAPACITY_(BEDS)":126,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"20000 N.W. 47th Avenue",
+    "CITY":"Miami Gardens",
+    "ZIP":"33055",
+    "STATE":"Florida",
+    "PHONE":"305-430-0085",
+    "OPERATOR":"His House Children's Home"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7907712,39.0526015 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"The Villages, Inc.",
+    "CAPACITY_(BEDS)":50,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"7240 S.W. 10th Avenue",
+    "CITY":"Topeka",
+    "ZIP":"66615",
+    "STATE":"Kansas",
+    "PHONE":"(785) 267-5900",
+    "OPERATOR":"The Villages, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.760904,39.3467569 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Board of Child Care of the United Methodist Church, Caminos Program",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"3300 Gaither Road",
+    "CITY":"Baltimore",
+    "ZIP":"21244",
+    "STATE":"Maryland",
+    "PHONE":"(410) 922-2100",
+    "OPERATOR":"Board of Child Care of the United Methodist Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.692664,38.988263 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Bethany Christian Services Maryland",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Transitional Foster Care",
+    "ADDRESS_1":"2142 Priest Bridge Court",
+    "CITY":"Crofton",
+    "ZIP":"21114",
+    "STATE":"Maryland",
+    "PHONE":"(410) 721-2835",
+    "OPERATOR":"Bethany Christian Services "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7892465,42.2866807 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Ascentria Care Alliance",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Long Term Foster Care",
+    "ADDRESS_1":"11 Shattuck Street",
+    "CITY":"Worcester",
+    "ZIP":"01605",
+    "STATE":"Massachusetts ",
+    "PHONE":"(774) 243-3062",
+    "OPERATOR":"Lutheran Immigration and Refugee Service"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6509552,42.979561 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Bethany Christian Services\n",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"901 Eastern Ave NE.\n ",
+    "CITY":"Grand Rapids",
+    "ZIP":"49503",
+    "STATE":"Michigan",
+    "PHONE":"(800) 238-4269",
+    "OPERATOR":"Bethany Christian Services\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8639177,41.0023488 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"The Children's Village",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1 Echo Hills Road",
+    "CITY":"Dobbs Ferry",
+    "ZIP":"10522",
+    "STATE":"New York",
+    "PHONE":"914-693-0600",
+    "OPERATOR":"Children's Village Inc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9368547,40.8086705 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Cayuga Home for Children",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Transitional Foster Care",
+    "ADDRESS_1":"\n1916 Park Avenue",
+    "CITY":"Harlem",
+    "ZIP":"10035",
+    "STATE":"New York",
+    "PHONE":"718-860-1656",
+    "OPERATOR":"Cayuga Centers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.85781779999999,41.0432363 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Abbott House ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"100 N. Broadway",
+    "CITY":"Irvington",
+    "ZIP":"10533",
+    "STATE":"New York",
+    "PHONE":"(914) 591-7300",
+    "OPERATOR":"Abbott House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9712771,41.923718 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Children's Home of Kingston ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"26 Grove Street",
+    "CITY":"Kingston",
+    "ZIP":"12401",
+    "STATE":"New York",
+    "PHONE":"(845) 331-1448",
+    "OPERATOR":"Children's Home of Kingston "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.747737,41.314416 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Lincoln Hall Boys' Haven",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"145 Route 202",
+    "CITY":"Lincolndale",
+    "ZIP":"10540",
+    "STATE":"New York",
+    "PHONE":"(914) 248-7474",
+    "OPERATOR":"Catholic Charities, Archdiocese of New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9636955,40.810813 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Lutheran Social Services of Metropolitan New York Safe Haven Program in NYC",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"475 Riverside Drive",
+    "CITY":"New York",
+    "ZIP":"10115",
+    "STATE":"New York",
+    "PHONE":"212-870-1100",
+    "OPERATOR":"Lutheran Social Services of Metropolitan New York "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8639135,41.1686077 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Hayden House Emergency Residence and School",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"155 N. Highland Avenue",
+    "CITY":"Ossining",
+    "ZIP":"10562",
+    "STATE":"New York",
+    "PHONE":"(914) 762-5302",
+    "OPERATOR":"Cardinal McCloskey Community Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4883134,40.8213673 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Mercy First ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"525 Convent Road",
+    "CITY":"Syosset",
+    "ZIP":"11791",
+    "STATE":"New York",
+    "PHONE":"(516) 921-0808",
+    "OPERATOR":"MercyFirst"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90695079999999,40.9166934 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Rising Ground ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"463 Hawthorne Avenue",
+    "CITY":"Yonkers",
+    "ZIP":"10705",
+    "STATE":"New York",
+    "PHONE":"914-375-8700",
+    "OPERATOR":"Leake & Watts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9166425,40.8159255 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Jewish Child Care Association",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Long Term Foster Care",
+    "ADDRESS_1":"555 Bergen Avenue",
+    "CITY":"Bronx",
+    "ZIP":"10455",
+    "STATE":"New York ",
+    "PHONE":"(718) 742-8550",
+    "OPERATOR":"Jewish Childcare Association of New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6840027,45.5169738 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Morrison Child and Family Services",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1111 SW 10th Avenue",
+    "CITY":"Portland",
+    "ZIP":"97205",
+    "STATE":"Oregon",
+    "PHONE":"(503) 258-4200",
+    "OPERATOR":"Morrison Child & Family Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5608202,45.4671004 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Morrison Child & Family Services ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"9911 SE. Mt Scott Boulevard",
+    "CITY":"Portland",
+    "ZIP":"97266",
+    "STATE":"Oregon",
+    "PHONE":"(503) 258-4200",
+    "OPERATOR":"Morrison Child & Family Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0995793,40.51028580000001 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Holy Family Institute",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"8235 Ohio River Boulevard",
+    "CITY":"Pittsburgh",
+    "ZIP":"15202",
+    "STATE":"Pennsylvania ",
+    "PHONE":"412-766-4030",
+    "OPERATOR":"Holy Family Institute"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.0565611,29.783809 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"BCFS Health and Human Services International Children's Services Emergency Shelter ",
+    "CAPACITY_(BEDS)":168,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"301 Ilfrey Avenue",
+    "CITY":"Baytown ",
+    "ZIP":"77520",
+    "STATE":"Texas",
+    "PHONE":"210-233-5898",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4500519,25.9444467 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa El Presidente",
+    "CAPACITY_(BEDS)":99,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1 Ted Hunt Boulevard",
+    "CITY":"Brownsville",
+    "ZIP":"78521",
+    "STATE":"Texas",
+    "PHONE":"956-589-7600",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5112722,25.9736076 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Nueva Esperanza ",
+    "CAPACITY_(BEDS)":112,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"321 Lorenaly Drive",
+    "CITY":"Brownsville",
+    "ZIP":"78526",
+    "STATE":"Texas",
+    "PHONE":"956-589-7800",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5024325,25.9060625 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. La Esperanza",
+    "CAPACITY_(BEDS)":82,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"504 E. Washington Street ",
+    "CITY":"Brownsville",
+    "ZIP":"78520",
+    "STATE":"Texas",
+    "PHONE":"956-621-5800",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.4241089,25.9425644 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Padre",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"7480 Padre Island Highway",
+    "CITY":"Brownsville",
+    "ZIP":"78521",
+    "STATE":"Texas",
+    "PHONE":"956-410-3020",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5950979,31.907735 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Canutillo",
+    "CAPACITY_(BEDS)":94,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"400 Talbot Avenue",
+    "CITY":"Canutillo",
+    "ZIP":"79835",
+    "STATE":"Texas",
+    "PHONE":"",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.14502089999999,29.7743966 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Montezuma",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"15101 E. Freeway",
+    "CITY":"Channelview",
+    "ZIP":"77530",
+    "STATE":"Texas",
+    "PHONE":"832-844-2578",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2304252,31.53194749999999 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casita Del Valle",
+    "CAPACITY_(BEDS)":97,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1855 Lee Moor Road",
+    "CITY":"Clint",
+    "ZIP":"79836",
+    "STATE":"Texas",
+    "PHONE":"915-851-1018",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5120197,30.3712018 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Conroe",
+    "CAPACITY_(BEDS)":120,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"10393 League Line Road",
+    "CITY":"Conroe",
+    "ZIP":"77304",
+    "STATE":"Texas",
+    "PHONE":"936-523-4000",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3495638,27.7175024 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Upbring Bokenkamp Children's Center",
+    "CAPACITY_(BEDS)":120,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"5517 S. Alameda Street",
+    "CITY":"Corpus Christi",
+    "ZIP":"78412",
+    "STATE":"Texas",
+    "PHONE":"512-459-1000",
+    "OPERATOR":"Upbring"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4878453,31.7620542 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Franklin",
+    "CAPACITY_(BEDS)":72,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"315 E. Franklin Avenue",
+    "CITY":"El Paso",
+    "ZIP":"79901",
+    "STATE":"Texas",
+    "PHONE":"915-532-0600",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.1488961,31.4415998 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Tornillo Tent City",
+    "CAPACITY_(BEDS)":4000,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"18051 Island Guadalupe Road",
+    "CITY":"Fabens",
+    "ZIP":"79838",
+    "STATE":"Texas",
+    "PHONE":"",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3274375,32.682583 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Catholic Charities Fort Worth",
+    "CAPACITY_(BEDS)":26,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"249 W. Thornhill Drive",
+    "CITY":"Fort Worth",
+    "ZIP":"76115",
+    "STATE":"Texas",
+    "PHONE":"(817) 534-0814 ",
+    "OPERATOR":"Catholic Charities"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7293219,26.2390524 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Combes",
+    "CAPACITY_(BEDS)":87,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"23011 Rio Rancho Road",
+    "CITY":"Harlingen",
+    "ZIP":"78552",
+    "STATE":"Texas",
+    "PHONE":"(956) 421-2034",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.65462099999999,26.192739 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"BCFS International Children's Shelter ",
+    "CAPACITY_(BEDS)":331,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"3700 E. Harrison Avenue",
+    "CITY":"Harlingen",
+    "ZIP":"78550",
+    "STATE":"Texas",
+    "PHONE":"210-233-5898",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3787215,29.7456541 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"St. Michael's Home for Children",
+    "CAPACITY_(BEDS)":24,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"2815 Smith Street",
+    "CITY":"Houston",
+    "ZIP":"77006",
+    "STATE":"Texas",
+    "PHONE":"713-526-4611",
+    "OPERATOR":"Catholic Charities of the Diocese of Galveston-Houston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40679949999999,29.6908955 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Houston",
+    "CAPACITY_(BEDS)":75,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1550 La Concha Lane",
+    "CITY":"Houston",
+    "ZIP":"77054",
+    "STATE":"Texas",
+    "PHONE":"713-904-5720",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4079665,29.8673192 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Quetzal",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"7407 North Freeway",
+    "CITY":"Houston",
+    "ZIP":"77076",
+    "STATE":"Texas",
+    "PHONE":"832-844-2251",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2611797,29.8345864 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Houston (Mesa Drive)",
+    "CAPACITY_(BEDS)":54,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"7900 Mesa Drive",
+    "CITY":"Houston",
+    "ZIP":"77028",
+    "STATE":"Texas",
+    "PHONE":"713-635-8505",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3525219,29.518488 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Shiloh Treatment Center ",
+    "CAPACITY_(BEDS)":43,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"3926 Bahler Avenue",
+    "CITY":"Manvel",
+    "ZIP":"77578",
+    "STATE":"Texas",
+    "PHONE":"(281) 489-1290",
+    "OPERATOR":"Shiloh Treatment Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2104901,26.2099647 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Upbring New Hope Children's Center",
+    "CAPACITY_(BEDS)":60,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1000 N. McColl Road",
+    "CITY":"McAllen",
+    "ZIP":"78501",
+    "STATE":"Texas",
+    "PHONE":"956-435-0700",
+    "OPERATOR":"Upbring"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.792773,26.4520709 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"BCFS Health and Human Services International Children's Services Emergency Shelter",
+    "CAPACITY_(BEDS)":50,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"12985 FM 490",
+    "CITY":"Raymondville",
+    "ZIP":"78580",
+    "STATE":"Texas",
+    "PHONE":"",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4910637,29.3878763 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Seton Home",
+    "CAPACITY_(BEDS)":106,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1115 Mission Road ",
+    "CITY":"San Antonio",
+    "ZIP":"78210",
+    "STATE":"Texas",
+    "PHONE":"(210) 533-3504",
+    "OPERATOR":"Catholic Charities Archbid of San Antonio "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4959014,29.7049578 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Blanca",
+    "CAPACITY_(BEDS)":45,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"27102 Enchanted Eve",
+    "CITY":"San Antonio",
+    "ZIP":"78260",
+    "STATE":"Texas",
+    "PHONE":"830-980-8088",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.6318769,29.4013762 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Unnamed facility operated by BCFS Health and Human Services ",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"7404 W. U.S. Highway 90",
+    "CITY":"San Antonio",
+    "ZIP":"78227",
+    "STATE":"Texas",
+    "PHONE":"(210) 674-3010",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.49254549999999,29.3882489 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"St Peter - St Joseph Childrens Home Emergency Shelter",
+    "CAPACITY_(BEDS)":135,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"919 Mission Road",
+    "CITY":"San Antonio",
+    "ZIP":"78210",
+    "STATE":"Texas",
+    "PHONE":"(210) 533-1203",
+    "OPERATOR":"St Peter - St Joseph Childrens Home"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.52803259999999,29.3214008 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"BCFS Health and Human Services International Children's Services Emergency Shelter",
+    "CAPACITY_(BEDS)":80,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1339 West Chavaneaux Road",
+    "CITY":"San Antonio ",
+    "ZIP":"78224",
+    "STATE":"Texas",
+    "PHONE":"",
+    "OPERATOR":"BCFS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.632978,26.1235886 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Antigua",
+    "CAPACITY_(BEDS)":260,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"502 E. Expressway 77 83 ",
+    "CITY":"San Benito",
+    "ZIP":"78586",
+    "STATE":"Texas",
+    "PHONE":"956-247-7500",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.633772,26.1234561 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Southwest Key Program, Inc. Casa Rio Grande ",
+    "CAPACITY_(BEDS)":214,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"401 E. Business Highway 77 ",
+    "CITY":"San Benito",
+    "ZIP":"78586",
+    "STATE":"Texas",
+    "PHONE":"956-247-7400",
+    "OPERATOR":"Southwest Key Program, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.135425,38.812185 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Northern Virginia Juvenile Detention Center ",
+    "CAPACITY_(BEDS)":70,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"200 S. Whiting Street",
+    "CITY":"Alexandria",
+    "ZIP":"22304",
+    "STATE":"Virginia ",
+    "PHONE":"(703) 751-3700",
+    "OPERATOR":"Commonwealth of Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5477586,38.7417097 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Youth for Tomorrow",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"11835 Hazel Circle Drive",
+    "CITY":"Bristow",
+    "ZIP":"20136",
+    "STATE":"Virginia ",
+    "PHONE":"(703) 368-7995",
+    "OPERATOR":"Youth For Tomorrow Foundation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.545436,37.6031199 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Commonwealth Catholic Charities",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Long Term Foster Care",
+    "ADDRESS_1":"1601 Rolling Hills Drive",
+    "CITY":"Richmond",
+    "ZIP":"23229",
+    "STATE":"Virginia ",
+    "PHONE":"(804) 285-5900",
+    "OPERATOR":"Commonwealth Catholic Charities"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.01302919999999,38.190781 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Shenandoah Valley Juvenile Center",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"300 Technology Drive",
+    "CITY":"Staunton",
+    "ZIP":"24401",
+    "STATE":"Virginia ",
+    "PHONE":"(540) 886-0729",
+    "OPERATOR":"Shenandoah Valley Juvenile Center Commission"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3555531,47.2507016 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Selma Carson Home",
+    "CAPACITY_(BEDS)":23,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"619 54th Avenue E",
+    "CITY":"Tacoma",
+    "ZIP":"98424",
+    "STATE":"Washington",
+    "PHONE":"(253) 922-7005",
+    "OPERATOR":"Pioneer Human Services "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4065482,40.5962746 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"KidsPeace",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
+    "ADDRESS_1":"1650 Broadway",
+    "CITY":"Bethlehem",
+    "ZIP":"18015",
+    "STATE":"Pennsylvania ",
+    "PHONE":"(610) 799-8600",
+    "OPERATOR":"KidsPeace "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0469585,34.0228387 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Lutheran Services Carolinas",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Transitional Foster Care",
+    "ADDRESS_1":"1118 Union St",
+    "CITY":"Columbia",
+    "ZIP":"29201",
+    "STATE":"South Carolina",
+    "PHONE":"(803) 750-9917",
+    "OPERATOR":"Lutheran Services Carolinas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2043414,47.5145454 ]
+    },
+    "properties": {
+    "FACILITY_NAME":"Friends of Youth",
+    "CAPACITY_(BEDS)":null,
+    "FACILITY_OR_OFFICE_OR_AGENCY":"Long Term Foster Care",
+    "ADDRESS_1":"2500 Lake Washington Blvd N",
+    "CITY":"Renton",
+    "ZIP":"98056",
+    "STATE":"Washington",
+    "PHONE":"(425) 228-5776",
+    "OPERATOR":"Friends of Youth"
+    }
+  }
+]
+}

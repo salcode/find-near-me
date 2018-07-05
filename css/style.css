@@ -1,0 +1,7 @@
+/**
+ * Hide geolocate button until we now the browser
+ * supports geolocation.
+ */
+#use-my-location {
+	display: none;
+}
