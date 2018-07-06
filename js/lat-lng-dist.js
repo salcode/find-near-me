@@ -1,5 +1,13 @@
 function LatLngDist( lat1, lng1, lat2, lng2 ) {
-	// @see https://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position.
+	/**
+	 * Example:
+	 *
+	 * LatLngDist( 40.3215666, -75.9828464, 33.5417647, -112.169801 )
+	 *
+	 * Result:
+	 * 2036 miles (or 3277 km)
+	 * @see https://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position.
+	 */
 
 	// Convert Degress to Radians
 	function Deg2Rad(deg) {
