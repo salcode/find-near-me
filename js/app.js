@@ -1,8 +1,8 @@
 (function() {
 	var isGeolocationAvailable = "geolocation" in navigator,
-		geolocateControls = document.getElementById('hidden-unless-able-to-geolocate'),
-		geolocateBtn = document.getElementById('use-my-location'),
-		output = document.getElementById('output');
+		geolocateControls = document.getElementById('encuentra-hidden-unless-able-to-geolocate'),
+		geolocateBtn = document.getElementById('encuentra-use-my-location'),
+		output = document.getElementById('encuentra-output');
 
 	if ( ! isGeolocationAvailable ) {
 		// Stop here. Geolocation is not available on this device.
