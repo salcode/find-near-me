@@ -5,3 +5,10 @@
 #hidden-unless-able-to-geolocate {
 	display: none;
 }
+
+/**
+ * Output window hidden until needed.
+ */
+#encuentra-output {
+	display: none;
+}

@@ -42,6 +42,7 @@
 
 		props = features[closest].properties;
 
+		output.style.display = 'block';
 		output.textContent =
 			props.FACILITY_NAME + " (" + props.FACILITY_OR_OFFICE_OR_AGENCY + ")\n"
 			+ props.ADDRESS_1 + "\n"
