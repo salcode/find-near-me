@@ -31,7 +31,15 @@ This code can be deployed on a website by adding the following HTML (which loads
 
 ## Updating places_geo.geojson
 
-The latest copy of `places_geo.geojson` can be retrieved by running the following from the command line.
+The latest copy of `places_geo.geojson` can be retrieved by
+
+moving to the `js` directory
+
+```
+cd js
+```
+
+and running the following from the command line.
 
 ```
 curl -O https://projects.propublica.org/graphics/data/migrant-shelters-near-you/places_geo.geojson
