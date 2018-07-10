@@ -1,6 +1,6 @@
 # Find Near Me
 
-**Version**: `0.1.0`
+**Version**: `0.1.1`
 
 This functionality is for the [Encuentra](https://encuentra.us/) project.
 
@@ -21,13 +21,16 @@ This code can be deployed on a website by adding the following HTML (which loads
 	<div id="encuentra-hidden-unless-able-to-geolocate">
 		<pre id="encuentra-output"><code></code></pre>
 
-		<p>
-		Click the button below to find a location near you.<br>
-		<em>Haga clic en el botón de abajo para encontrar una ubicación cerca de usted.</em><br>
-		<button id="encuentra-use-my-location">Use my location</button>
+		<div id="encuentra-hide-when-complete">
+			<p>
+			Click the button below to find a location near you.<br>
+			<em>Haga clic en el botón de abajo para encontrar una ubicación cerca de usted.</em><br>
+			<br>
+			<button id="encuentra-use-my-location" data-locations-uri="https://encuentra.us/find-near-me/js/places_geo.geojson?v=0.1.0">Use my location</button>
+		</div>
 	</div>
-	<link rel="stylesheet" href="css/style.css">
-	<script src="js/app.js"></script>
+	<link rel="stylesheet" href="https://encuentra.us/find-near-me/css/style.css?v=0.1.0">
+	<script src="https://encuentra.us/find-near-me/js/app.js?v=0.1.0"></script>
 </div>
 ```
 
