@@ -365,7 +365,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -121.2757354,38.6798131 ]
+       "coordinates":  [ -121.2757179,38.6797945 ]
     },
     "properties": {
     "FACILITY_NAME":"International Christian Adoptions",
@@ -389,7 +389,7 @@
     "FACILITY_NAME":"Noank Community Support Services",
     "CAPACITY_(BEDS)":12,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
-    "ADDRESS_1":"306 THAMES ST (have to check with Caroline)",
+    "ADDRESS_1":"306 THAMES St",
     "CITY":"Groton",
     "ZIP":"6340",
     "STATE":"Connecticut",
@@ -801,7 +801,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa El Presidente",
-    "CAPACITY_(BEDS)":99,
+    "CAPACITY_(BEDS)":304,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"1 Ted Hunt Boulevard",
     "CITY":"Brownsville",
@@ -819,7 +819,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Nueva Esperanza ",
-    "CAPACITY_(BEDS)":112,
+    "CAPACITY_(BEDS)":200,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"321 Lorenaly Drive",
     "CITY":"Brownsville",
@@ -837,7 +837,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. La Esperanza",
-    "CAPACITY_(BEDS)":82,
+    "CAPACITY_(BEDS)":75,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"504 E. Washington Street ",
     "CITY":"Brownsville",
@@ -855,7 +855,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa Padre",
-    "CAPACITY_(BEDS)":null,
+    "CAPACITY_(BEDS)":1200,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"7480 Padre Island Highway",
     "CITY":"Brownsville",
@@ -891,7 +891,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa Montezuma",
-    "CAPACITY_(BEDS)":null,
+    "CAPACITY_(BEDS)":191,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"15101 E. Freeway",
     "CITY":"Channelview",
@@ -909,7 +909,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casita Del Valle",
-    "CAPACITY_(BEDS)":97,
+    "CAPACITY_(BEDS)":75,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"1855 Lee Moor Road",
     "CITY":"Clint",
@@ -927,7 +927,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Conroe",
-    "CAPACITY_(BEDS)":120,
+    "CAPACITY_(BEDS)":160,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"10393 League Line Road",
     "CITY":"Conroe",
@@ -945,7 +945,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Upbring Bokenkamp Children's Center",
-    "CAPACITY_(BEDS)":120,
+    "CAPACITY_(BEDS)":110,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"5517 S. Alameda Street",
     "CITY":"Corpus Christi",
@@ -1017,7 +1017,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Combes",
-    "CAPACITY_(BEDS)":87,
+    "CAPACITY_(BEDS)":69,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"23011 Rio Rancho Road",
     "CITY":"Harlingen",
@@ -1035,7 +1035,7 @@
     },
     "properties": {
     "FACILITY_NAME":"BCFS International Children's Shelter ",
-    "CAPACITY_(BEDS)":331,
+    "CAPACITY_(BEDS)":435,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"3700 E. Harrison Avenue",
     "CITY":"Harlingen",
@@ -1053,7 +1053,7 @@
     },
     "properties": {
     "FACILITY_NAME":"St. Michael's Home for Children",
-    "CAPACITY_(BEDS)":24,
+    "CAPACITY_(BEDS)":null,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"2815 Smith Street",
     "CITY":"Houston",
@@ -1089,7 +1089,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa Quetzal",
-    "CAPACITY_(BEDS)":null,
+    "CAPACITY_(BEDS)":239,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"7407 North Freeway",
     "CITY":"Houston",
@@ -1125,7 +1125,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Shiloh Treatment Center ",
-    "CAPACITY_(BEDS)":43,
+    "CAPACITY_(BEDS)":44,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"3926 Bahler Avenue",
     "CITY":"Manvel",
@@ -1269,7 +1269,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa Antigua",
-    "CAPACITY_(BEDS)":260,
+    "CAPACITY_(BEDS)":202,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"502 E. Expressway 77 83 ",
     "CITY":"San Benito",
@@ -1287,7 +1287,7 @@
     },
     "properties": {
     "FACILITY_NAME":"Southwest Key Program, Inc. Casa Rio Grande ",
-    "CAPACITY_(BEDS)":214,
+    "CAPACITY_(BEDS)":160,
     "FACILITY_OR_OFFICE_OR_AGENCY":"Facility",
     "ADDRESS_1":"401 E. Business Highway 77 ",
     "CITY":"San Benito",
