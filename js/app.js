@@ -3,6 +3,7 @@
 		geolocateControls = document.getElementById('encuentra-hidden-unless-able-to-geolocate'),
 		hideWhenComplete = document.getElementById('encuentra-hide-when-complete'),
 		geolocateBtn = document.getElementById('encuentra-use-my-location'),
+		locationsUri = geolocateBtn.dataset.locationsUri,
 		output = document.getElementById('encuentra-output');
 
 	if ( ! isGeolocationAvailable ) {
@@ -65,7 +66,7 @@
 		// @see https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/overrideMimeType
 		xobj.overrideMimeType("application/json");
 
-		xobj.open( 'GET', 'js/places_geo.geojson', true );
+		xobj.open( 'GET', locationsUri, true );
 
 		xobj.onreadystatechange = function () {
 			if ( xobj.readyState != 4 ) {
