@@ -5,8 +5,7 @@
 		output = document.getElementById('output');
 
 	if ( ! isGeolocationAvailable ) {
-		output.textContent = 'Geolocation is not available on this device.';
-		// Stop here.
+		// Stop here. Geolocation is not available on this device.
 		return;
 	}
 
