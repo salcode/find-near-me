@@ -1,5 +1,6 @@
 (function() {
 	var isGeolocationAvailable = "geolocation" in navigator,
+		geolocateControls = document.getElementById('hidden-unless-able-to-geolocate'),
 		geolocateBtn = document.getElementById('use-my-location'),
 		output = document.getElementById('output');
 
@@ -10,7 +11,7 @@
 	}
 
 	// Reveal Geolocation Button.
-	geolocateBtn.style.display = 'inline-block';
+	geolocateControls.style.display = 'block';
 
 	// Listen for Gelocation Button click.
 	geolocateBtn.addEventListener( 'click', function( event ) {
