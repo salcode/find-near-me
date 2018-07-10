@@ -1,5 +1,7 @@
 # Find Near Me
 
+**Version**: `0.1.0`
+
 This functionality is for the [Encuentra](https://encuentra.us/) project.
 
 If the current browser supports Geolocation, the user is presented with a "Use my location" button.
