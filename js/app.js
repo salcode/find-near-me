@@ -75,6 +75,9 @@
 			if ( xobj.status != "200" ) {
 				// Failure.
 				output.textContent = "Unable to load locations. Please try again later.";
+				if ( 'undefined' !== typeof console && 'undefined' !== typeof console.error ) {
+					console.error( 'Unable to load locations. Status: ' + xobj.status + ' ' + xobj.statusText );
+				}
 				return;
 			}
 			// Successfully loaded data.
