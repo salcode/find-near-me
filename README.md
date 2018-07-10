@@ -55,7 +55,9 @@ When initially setting up this project, it is important `https://encuentra.us/fi
 access-control-allow-origin: *
 ```
 
-This allows any website to load this file and use it.
+This allows any website to load this file and use it. Configuring this varies depending on the web server running the website. Typically, it is either Apache or nginx.
+
+### Apache Server Configuration
 
 On a server running Apache, this header can be added via an `.htaccess` file in the directory with the following content.
 
@@ -69,3 +71,14 @@ On a server running Apache, this header can be added via an `.htaccess` file in 
 </FilesMatch>
 ```
 
+### nginx Server Configuration
+
+On a server running nginx, first locate the nginx configuration file for the relevant site (in Local by Flywheel this is at `conf/nginx/site.conf`).
+
+Inside the `server` block, add the following
+
+```
+location /find-near-me/js/places_geo.geojson {
+    add_header Access-Control-Allow-Origin *;
+}
+```
