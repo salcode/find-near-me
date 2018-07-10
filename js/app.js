@@ -1,6 +1,7 @@
 (function() {
 	var isGeolocationAvailable = "geolocation" in navigator,
 		geolocateControls = document.getElementById('encuentra-hidden-unless-able-to-geolocate'),
+		hideWhenComplete = document.getElementById('encuentra-hide-when-complete'),
 		geolocateBtn = document.getElementById('encuentra-use-my-location'),
 		output = document.getElementById('encuentra-output');
 
@@ -90,8 +91,8 @@
 
 		xobj.send(null);
 
-		// Hide Geolocate Button.
-		geolocateBtn.style.display = 'none';
+		// Hide Geolocate Button and message.
+		hideWhenComplete.style.display = 'none';
 	}
 
 	/**
