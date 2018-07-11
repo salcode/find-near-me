@@ -1,6 +1,6 @@
 # Find Near Me
 
-**Version**: `0.1.2`
+**Version**: `0.1.3`
 
 This functionality is for the [Encuentra](https://encuentra.us/) project.
 
