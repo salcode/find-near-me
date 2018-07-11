@@ -26,7 +26,7 @@ This code can be deployed on a website by adding the following HTML (which loads
 			Click the button below to find a location near you.<br>
 			<em>Haga clic en el botón de abajo para encontrar una ubicación cerca de usted.</em><br>
 			<br>
-			<button id="encuentra-use-my-location" data-locations-uri="https://encuentra.us/find-near-me/js/places_geo.geojson?v=0.1.0">Use my location</button>
+			<button id="encuentra-use-my-location" data-locations-uri="https://s3.amazonaws.com/encuentra/places_geo.geojson">Use my location</button>
 		</div>
 	</div>
 	<link rel="stylesheet" href="https://encuentra.us/find-near-me/css/style.css?v=0.1.0">
@@ -36,25 +36,17 @@ This code can be deployed on a website by adding the following HTML (which loads
 
 ## Updating places_geo.geojson
 
-The latest copy of `places_geo.geojson` can be retrieved by
-
-moving to the `js` directory
-
-```
-cd js
-```
-
-and running the following from the command line.
+The latest copy of `places_geo.geojson` can be retrieved with
 
 ```
 curl -O https://projects.propublica.org/graphics/data/migrant-shelters-near-you/places_geo.geojson
 ```
 
-This updated file should then be made available at `https://encuentra.us/find-near-me/js/places_geo.geojson`.
+This updated file should then be moved to the Amazon S3 bucket at `https://s3.amazonaws.com/encuentra/places_geo.geojson`.
 
 ## Initial Setup
 
-When initially setting up this project, it is important `https://encuentra.us/find-near-me/js/places_geo.geojson` is served with the following response header.
+When initially setting up this project, it is important `https://s3.amazonaws.com/encuentra/places_geo.geojson` is served with the following response header.
 
 ```
 access-control-allow-origin: *
@@ -86,4 +78,20 @@ Inside the `server` block, add the following
 location /find-near-me/js/places_geo.geojson {
     add_header Access-Control-Allow-Origin *;
 }
+```
+
+### Amazon S3
+
+See Amazon S3 [Cross-Origin Resource Sharing (CORS)](https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html) documentation.
+
+This is the CORS configuration currently on our S3 bucket.
+
+```
+<CORSConfiguration>
+	<CORSRule>
+		<AllowedOrigin>*</AllowedOrigin>
+		<AllowedMethod>GET</AllowedMethod>
+		<MaxAgeSeconds>3000</MaxAgeSeconds>
+	</CORSRule>
+</CORSConfiguration>
 ```
