@@ -48,7 +48,9 @@
 			+ props.ADDRESS_1 + "\n"
 			+ props.CITY + ", " + props.STATE + " " + props.ZIP + "\n"
 			+ props.PHONE + "\n\n"
-			+ "approximately " + Math.round( dif ) + " miles away";
+			+ "approximately " + Math.round(
+				LatLngDist(latitude, longitude, features[closest].geometry.coordinates[1], features[closest].geometry.coordinates[0] )
+			) + " miles away";
 	}
 
 	/**
